@@ -1,7 +1,6 @@
 # 💫 About Me:
 <h3 align="center">Hi 💜, I'm Kishore Kumar B I'm a Data Whisperer skilled in Excel, Power BI, Python, and SQL, passionate about turning complex data into actionable insights and strategies. I thrive on solving analytical challenges and crafting data narratives that drive decision-making.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kishore49" alt="kishore49" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://portfolio-website-for-fresher-with-python-skillsetkq0uvr2bi2.codedesign.app/](https://portfolio-website-for-fresher-with-python-skillsetkq0uvr2bi2.codedesign.app/)
 
