@@ -12,7 +12,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1mKW10rClq4shYS_Vp-qxvzB4qzVx4LXw/view?usp=sharing](https://drive.google.com/file/d/1mKW10rClq4shYS_Vp-qxvzB4qzVx4LXw/view?usp=sharing)
 
-
+- 🌐 \[Linktree\]   (https://linktr.ee/kishore49) 🌳
 
 # 🌐 Socials:
 <h3 align="left">Connect with me:</h3>
