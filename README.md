@@ -2,7 +2,7 @@
 <h3 align="center">Hi 💜, I'm Kishore Kumar B I'm a Data Whisperer skilled in Excel, Power BI, Python, and SQL, passionate about turning complex data into actionable insights and strategies. I thrive on solving analytical challenges and crafting data narratives that drive decision-making.</h3>
 
 
-- 👨‍💻 All of my projects are available at [https://portfolio-website-for-fresher-with-python-skillsetkq0uvr2bi2.codedesign.app/](https://portfolio-website-for-fresher-with-python-skillsetkq0uvr2bi2.codedesign.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-website-for-fresher-with-python-skillsetkq0uvr2bi2.codedesign.app/](https://kishorekumar-portfolio-49.netlify.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@kingkishore4907](https://medium.com/@kingkishore4907)
 
