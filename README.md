@@ -6,7 +6,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@kingkishore4907](https://medium.com/@kingkishore4907)
 
-- 💬 Ask me about **Python, Data Analytics**
+- 💬 Ask me about **Python, Data Analytics, Music, Movies, Cricket, WWE, Latest Tech**
 
 - 📫 How to reach me **kingkishore4907@gmail.com**
 
